@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan14_bit;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -6,7 +7,6 @@
  * Deskripsi Program    : Program ini berisi Bit
  *
  */
-package pboif2_10119065_latihan14_bit;
 public class PBOIF2_10119065_Latihan14_Bit {
     public static void main(String[] args) {
         int a = 60;
